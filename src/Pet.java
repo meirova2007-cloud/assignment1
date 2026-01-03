@@ -59,5 +59,4 @@ public class Pet {
     public int hashCode() {
         return Integer.hashCode(id);
     }
-
 }
